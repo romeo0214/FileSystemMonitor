@@ -1,0 +1,19 @@
+Filesystem:
+    - D:\Test
+    - D:\Test2
+
+
+ReportDir: D:\report\
+
+csvFile: users.csv
+
+ReportCols:
+    - Action
+    - User
+    - Directory
+    - Comment
+
+Action_Move: Move
+Action_Delete: Delete
+Action_Modify: Modify
+Action_Create: Create
